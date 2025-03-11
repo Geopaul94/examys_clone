@@ -36,6 +36,8 @@ SizedBox h40 = SizedBox(height: 40);
 SizedBox h50 = SizedBox(height: 50);
 SizedBox h80 = SizedBox(height: 80);
 SizedBox h100 = SizedBox(height: 100);
+SizedBox h150 = SizedBox(height: 150);
+SizedBox h200 = SizedBox(height: 200);
 
 // SizedBoxes for widths
 SizedBox w10 = SizedBox(width: 10);
